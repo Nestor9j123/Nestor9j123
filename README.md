@@ -36,7 +36,6 @@
 
   <p>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
       <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23FF2D20.svg?logo=django&logoColor=white"></a>
   </p>
   
