@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> 
 🌱 currently improving my Flutter and Django skills. <br>
-👯 looking for challenging projects that push my limits and enhance my skills.<br>
+👯 looking for challenging projects that push my limits and enhance my skills.<br> 
 💬 Interested in android and web development.<br>
 📫 How to reach me: on my <span><strong><a href="mailto:kpadjanestor78@gmail.com">GMAIL</a></strong></span>.  <br>
 😄 Pronouns: he/him.<br>
