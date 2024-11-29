@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Nestor9j123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm KPADJA Nestor!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Flutter+and+laravel+app+dev.)](https://git.io/typing-svg)
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> 
+🌱 currently improving my Flutter and Laravel skills. <br>
+👯 looking for challenging projects that push my limits and enhance my skills.<br>
+💬 Interested in android and web development.<br>
+📫 How to reach me: on my <span><strong><a href="mailto:paloukigidbless39@gmail.com">GMAIL</a></strong></span>.  <br>
+😄 Pronouns: he/him.<br>
+🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !<br> 
+👨‍ Passionate with problem solving and daily routines automation. <br> 
 
 <hr/>
 <summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
