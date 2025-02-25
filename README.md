@@ -1,11 +1,11 @@
 # Hi, I'm KPADJA Nestor!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Flutter+and+Django+app+dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Kotlin+and+VueJS+app+dev.)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> 
-🌱 currently improving my Flutter and Django skills. <br>
+🌱 currently improving my Kotlin and VueJS skills. <br>
 👯 looking for challenging projects that push my limits and enhance my skills.<br> 
-💬 Interested in android and web development.<br>
+💬 Interested in android  development with kotlin.<br>
 📫 How to reach me: on my <span><strong><a href="mailto:kpadjanestor78@gmail.com">GMAIL</a></strong></span>.  <br>
 😄 Pronouns: he/him.<br>
 🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !<br> 
@@ -31,7 +31,7 @@
       <a href="https://github.com/search?q=user%3Atchindou+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3Atchindou+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3Atchindou+language%3Apython"><img alt="Kotlin" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white""></a>
   </p>
@@ -41,7 +41,7 @@
 
   <p>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-      <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23FF2D20.svg?logo=django&logoColor=white"></a>
+      <a href="#"><img alt="VueJS" src="https://img.shields.io/badge/django-%23FF2D20.svg?logo=django&logoColor=white"></a>
   </p>
   
 
