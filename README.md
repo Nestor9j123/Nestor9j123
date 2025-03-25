@@ -40,8 +40,7 @@
 
 
   <p>
-      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-      <a href="#"><img alt="VueJS" src="https://img.shields.io/badge/django-%23FF2D20.svg?logo=django&logoColor=white"></a>
+      <a href="#"><img alt="Spring boot" src="https://img.shields.io/badge/Spring%2302569B.svg?logo=Spring&logoColor=white"></a>
   </p>
   
 
