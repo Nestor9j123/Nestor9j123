@@ -1,7 +1,9 @@
+
 # Hi, I'm KPADJA Nestor!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Kotlin+and+Spring+Boot+app+dev.)](https://git.io/typing-svg)
-<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/1y2Ub9frvchVQw2tIn/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🌱 currently improving my Kotlin and Spring boot skills. <br>
 👯 looking for challenging projects that push my limits and enhance my skills.<br> 
 💬 Interested in android  development with kotlin.<br>
