@@ -39,7 +39,8 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
 
-![Spring](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)
+![Spring Boot](https://spring.io/images/spring-boot-7b2bfb08cb0dd28eeb29c34693934f0a.svg)
+
 
 
 
