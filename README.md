@@ -39,10 +39,12 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
 
-  <p>
-      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%2302569B.svg?logo=Spring&logoColor=white"></a>
-  </p>
-  
+<p>
+    <a href="#">
+        <img alt="Spring" src="https://spring.io/img/spring-logo.svg" width="150">
+    </a>
+</p>
+
 
   <h3>🗄️ Databases, Cloud & Hosting</h3>
 
