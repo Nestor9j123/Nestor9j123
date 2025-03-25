@@ -36,14 +36,8 @@
   
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
-
-
-![Spring Boot](https://spring.io/images/spring-boot-7b2bfb08cb0dd28eeb29c34693934f0a.svg)
-
-
-
-
+  <h3>🧰 Frameworks </h3>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot&logoColor=6DB33F)
 
   <h3>🗄️ Databases, Cloud & Hosting</h3>
 
