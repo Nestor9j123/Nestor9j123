@@ -47,7 +47,7 @@
   <h3>🗄️ Databases, Cloud & Hosting</h3>
 
   <p>
-     
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-00f.svg?logo=Firebase&logoColor=white"></a>   
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   </p>
