@@ -37,7 +37,7 @@
   </p>
 
   <h3>🧰 Frameworks </h3>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot&logoColor=6DB33F)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 
   <h3>🗄️ Databases, Cloud & Hosting</h3>
 
