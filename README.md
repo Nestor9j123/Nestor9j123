@@ -37,7 +37,10 @@
   </p>
 
   <h3>🧰 Frameworks </h3>
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+<a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot Badge">
+</a>
+
 
 
   <h3>🗄️ Databases, Cloud & Hosting</h3>
