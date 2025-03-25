@@ -40,7 +40,7 @@
 
 
   <p>
-      <a href="#"><img alt="Spring boot" src="https://img.shields.io/badge/Spring%2302569B.svg?logo=Spring&logoColor=white"></a>
+      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%2302569B.svg?logo=Spring&logoColor=white"></a>
   </p>
   
 
